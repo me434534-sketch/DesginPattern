@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="(1)Decorator/(1)Decorator.csproj" />
+  <Project Path="(2)Proxy/(2)Proxy.csproj" Id="427b8e21-7b77-4296-be5f-39e3f0a3aad8" />
+  <Project Path="(3)Bridge/(3)Bridge.csproj" Id="94e85101-7645-42a2-b5bc-e03265561204" />
+  <Project Path="(4)Composite/(4)Composite.csproj" Id="c0786e1f-0836-46ba-9bba-01cc1aab60ab" />
+  <Project Path="(5)Facade/(5)Facade.csproj" Id="32dd7500-379f-44f3-be2a-5d45694d91d9" />
+  <Project Path="(6)State/(6)State.csproj" Id="b6c6cbed-c6bc-4271-8f74-f2bfe6ecc88b" />
+</Solution>
